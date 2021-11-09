@@ -1,4 +1,4 @@
-sudo pacman -S nemo xfce4-terminal steam etcher libreoffice cinnamon npm gdb lolcat solaar oh-my-zsh
+sudo pacman -S nemo xfce4-terminal steam etcher libreoffice cinnamon npm gdb lolcat solaar oh-my-zsh make
 sudo ln /snap /var/lib/snapd/snap --symbolic
 snap install code --classic
 mkdir font_gits
